@@ -34,6 +34,8 @@
 
 ## Overview
 
+![Overview Image](Desktop_1350px.jpg)
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -49,4 +51,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [Adi26-pixel](https://github.com/Adi26-pixel)
